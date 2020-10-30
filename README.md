@@ -37,6 +37,8 @@ Documentation: [English version](https://github.com/luolongfei/freenom/blob/mast
 
 [🥝  开源协议](#--开源协议)
 
+为了续期瞎写
+
 
 ### 📃  前言
 众所周知，Freenom是地球上唯一一个提供免费顶级域名的商家，不过需要每年续期，每次续期最多一年。由于我申请了一堆域名，而且不是同一时段申请的，
